@@ -1,0 +1,5 @@
+{
+  "name": "MindMap Architect",
+  "description": "An intelligent tool that converts raw notes and text into structured Markdown hierarchies optimized for mind mapping tools like Whimsical, Markmap, and Obsidian.",
+  "requestFramePermissions": []
+}
